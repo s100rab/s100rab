@@ -49,5 +49,6 @@ My name is Sourabh Lakhera, and I'm passionate about Data Engineering and Full-S
 - Email: [sourabh.lakhera2015@gmail.com](mailto:sourabh.lakhera2015@gmail.com) 📧
 
 ### Resume:
-[View Resume]([https://www.icloud.com/iclouddrive/0f55J8wHXbpGQECOjEXrSDlNA#SourabhLakhera_14thApril24_V1]) 📄
+[View Resume](https://www.icloud.com/iclouddrive/0f55J8wHXbpGQECOjEXrSDlNA#SourabhLakhera_14thApril24_V1) 📄
+
 
