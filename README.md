@@ -45,6 +45,7 @@ My name is Sourabh Lakhera, and I'm passionate about Data Engineering and Full-S
 - Phone: +91 7200098609 📱
 - Address: Jabalpur(M.P) - India 🌍
 - Website: [Sourabh Lakhera - Skill-Lync Profile](https://skill-lync.com/profiles/sourabh-lakhera-392) 💼
+- Portfolio: [Sourabh Lakhera - Project Profile](https://portfolio-digital-resume-zflw-sourabh-lakheras-projects.vercel.app)
 - LinkedIn: [Sourabh Lakhera](http://www.linkedin.com/in/100rablakhera) 💼
 - Email: [sourabh.lakhera2015@gmail.com](mailto:sourabh.lakhera2015@gmail.com) 📧
 
