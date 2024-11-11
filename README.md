@@ -1,6 +1,6 @@
 # Hi there! 👋
 ![Dynamic Profile Image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Sourabh Lakhera, and I'm passionate about Data Engineering and Full-Stack Development. 
+My name is Sourabh Lakhera, and I'm passionate about Data Engineering and Full-Stack Developer. 
 
 - 🔭 Currently working on a Data Engineering Project
 - 🌱 Interested in Data Engineering and Data Science
